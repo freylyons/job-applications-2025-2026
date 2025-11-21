@@ -1,0 +1,23 @@
+@media print {
+    * { background: transparent !important; color: black !important; text-shadow: none !important; filter:none !important; -ms-filter: none !important} 
+    
+    a, a:visited { text-decoration: underline}
+    
+    a[href]:after { content: ""}
+    
+    img {page-break-inside: avoid}
+    
+    img { max-width: 500px !important }
+    
+    @page {margin: 0.5cm}
+    
+    p, h2, h3 {orphans: 3; widows: 3}
+    
+    h2, h3 {page-break-after: avoid}
+    
+    ul { padding: 0; }
+
+    header section, aside, nav, footer, .footer, #full-width-scroller, #back-top, .share-this, .breadcrumb, .links, .accessibility, .hidden, #back_top_top, .btn, .recently-viewed-vacancies-widget, .carousel, .social-share-widget {
+        display: none !important;
+    }
+}
