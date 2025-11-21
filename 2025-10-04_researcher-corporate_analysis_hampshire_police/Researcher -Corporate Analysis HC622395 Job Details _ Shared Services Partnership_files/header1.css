@@ -1,0 +1,308 @@
+.language>ul.dropdown-menu {
+    left:auto;
+    right:0px;
+}
+.nav .dropdown a.dropdown-toggle {
+    background:none;
+}
+
+#headerbordertop {
+    height: 10px;
+    margin: 0 auto;
+}
+#header {
+    width: 100%; /* IE support */
+}
+
+.menu {
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    clear: both;
+    display: block;
+    float: none;
+    margin-left: 0;
+    margin-right: 0;
+    position: static;
+    width: 100%;
+    *zoom: 1;
+}
+.menu:before,
+.menu:after {
+    display: table;
+    content: "";
+    line-height: 0;
+}
+.menu:after {
+    clear: both;
+}
+.menu.desktop {
+    padding: 20px 0;
+}
+.menu.desktop .nav {
+    margin: 0;
+    padding: 0;
+    float: right;
+    margin-top: 7.5px;
+}
+.menu.desktop .nav > li {
+    font-size: 1em;
+    margin: 0 30px 0 0;
+    padding: 15px 0;
+}
+.menu.desktop .nav > li:last-child,
+.menu.desktop .nav > li:last-of-type {
+    margin-right: 0;
+}
+.menu.desktop .nav > li > a {
+    font-size: 1em;
+    background: transparent none;
+    margin: 0;
+    padding: 0;
+    text-shadow: none;
+}
+.menu.desktop .nav > li > a i.fa {
+    font-size: 1.5em;
+    font-weight: bold;
+    position: relative;
+    top: 3px;
+}
+#header .inner {
+    padding:0px 15px;
+}
+.dropdown-toggle {
+    background:none;
+}
+.mobilelink.fa {
+    font-size:38px;
+}
+.menu.desktop .nav > li:first-child .dropdown-menu {
+    right:auto;
+}
+.menu.desktop .nav > li:last-child .dropdown-menu {
+    right:0 !important;
+}
+.menu.desktop .nav > li .dropdown-menu {
+    margin: 0;
+    padding: 0;
+    padding: 15px 30px 0 30px;
+    right: 0;
+    left: auto;
+}
+.menu.desktop .nav > li .dropdown-menu ul {
+    margin: 0;
+    padding: 0;
+}
+.menu.desktop .nav > li .dropdown-menu li {
+    background: transparent none;
+    margin: 0;
+    padding: 0;
+    font-size: 1em;
+    margin-bottom: 15px;
+}
+.menu.desktop .nav > li .dropdown-menu li a {
+    background: transparent none;
+    margin: 0;
+    padding: 0;
+    white-space: nowrap;
+}
+.menu.desktop .nav > li.open > a {
+    background: transparent none;
+}
+.menu.mobile {
+    display: none;
+    visibility: hidden;
+    position: relative;
+    height: 58px;
+}
+.menu.mobile .logo {
+    height: 58px; /* SAP Logo Guidelines*/
+    margin-left: 15px;
+    padding: 7.5px 0;
+}
+.menu.mobile .nav {
+    *zoom: 1;
+    margin: 0;
+    padding: 0;
+    float: right;
+}
+.menu.mobile .nav:before,
+.menu.mobile .nav:after {
+    display: table;
+    content: "";
+    line-height: 0;
+}
+.menu.mobile .nav:after {
+    clear: both;
+}
+.menu.mobile .nav > .dropdown {
+    float: left;
+    font-size: 1em;
+    position: static;
+}
+.menu.mobile .nav>.dropdown >.dropdown-toggle {
+    font-size: 1.3125em;
+    display: block;
+    padding: 7.5px;
+}
+.menu.mobile .nav .dropdown .dropdown-toggle i.fa {
+    display: block;
+    line-height: 1em;
+}
+.menu.mobile .nav .dropdown .dropdown-menu {
+    width: 100%;
+}
+#header .dropdown-menu > li > a:focus, #header .dropdown-menu > li > a:hover{
+    background-color:inherit;
+}
+.headerdropdown {
+    left:15px;
+    width:auto !important;
+}
+.menu.mobile .nav .dropdown.mobile-nav .dropdown-menu ul {
+    margin: 0;
+    padding: 0;
+}
+.menu.mobile .nav .dropdown.mobile-nav .dropdown-menu li {
+    font-size: 1em;
+}
+.menu.mobile .nav .dropdown.mobile-nav .dropdown-menu li a,
+.menu.mobile .nav .dropdown.mobile-nav .dropdown-menu li span {
+    display: inline-block;
+    padding: 7.5px 15px;
+}
+.menu.mobile .nav .dropdown.mobile-nav .dropdown-menu li a {
+    background: transparent none;
+}
+.menu.mobile .nav .dropdown.mobile-nav .dropdown-menu li span {
+    font-weight: bold;
+    text-decoration: underline;
+}
+.menu.mobile .nav .dropdown.mobile-nav .dropdown-menu li.break {
+    margin: 0;
+    padding: 0;
+    display: block;
+    height: 1px;
+    margin: 7.5px 0;
+    width: auto;
+}
+@media (max-width: 768px) {
+    .menu.desktop {
+        display: none;
+        visibility: hidden;
+    }
+    .menu.mobile {
+        display: inherit;
+        visibility: visible;
+    }
+    .menu.mobile .mobile-search {
+        display: inherit;
+        visibility: visible;
+    }
+}
+@media (max-width: 633px) {
+    .menu.mobile .mobile-search {
+        display: inherit;
+        visibility: visible;
+    }
+}
+.employeeWidget .dropdown-menu .profileWidget {
+    margin-top: 0px;
+    padding: 3px 20px;
+}
+.employeeWidget .dropdown-menu {
+    right: 0px;
+    left: auto;
+}
+#header .lower {
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    clear: both;
+    display: block;
+    float: none;
+    margin-left: 0;
+    margin-right: 0;
+    position: static;
+    width: 100%;
+    *zoom: 1;
+    padding: 12px 0;
+}
+#header .lower:before,
+#header .lower:after {
+    display: table;
+    content: "";
+    line-height: 0;
+}
+#header .lower:after {
+    clear: both;
+}
+#header .lower .links {
+    margin: 0;
+    padding: 0;
+    display: block;
+    float: right;
+    line-height: 1em;
+}
+#header .lower .links .node {
+    display: inline-block;
+    padding-right: 0.4em;
+}
+#header .lower .links .node:last-child  {
+    padding-right: 0px;
+}
+#header .lower .links a {
+    display: inline-block;
+    font-size: 1em;
+}
+#header .lower .links .language.dropdown .dropdown-toggle i.fa {
+    font-size: 1.5em;
+    font-weight: bold;
+}
+#header .lower .links .language.dropdown ul.dropdown-menu {
+    margin: 0;
+    padding: 0;
+    padding: 15px 30px 0 30px;
+    padding: 5px 15px 0 15px;
+    top: 24px;
+}
+#header .lower .links .language.dropdown ul.dropdown-menu ul {
+    margin: 0;
+    padding: 0;
+}
+#header .lower .links .language.dropdown ul.dropdown-menu li {
+    background: transparent none;
+    margin: 0;
+    padding: 0;
+    font-size: 1em;
+    margin-bottom: 15px;
+}
+#header .lower .links .language.dropdown ul.dropdown-menu li a {
+    background: transparent none;
+    margin: 0;
+    padding: 0;
+    white-space: nowrap;
+}
+#header .lower .links .language.dropdown ul.dropdown-menu li {
+    margin-bottom: 5px;
+}
+#header {
+    margin:0 auto;
+}
+@media (max-width: 768px) {
+    #header div.lower.headersubmenu > div.inner > div.links ul.dropdown-menu {
+        position: absolute;
+        width: 100%;
+        top: auto;
+        margin-top: 3px;
+        left:0;
+    }
+    #header div.lower.headersubmenu > div.inner > div.links .bookmarkCounter ul.dropdown-menu {
+        margin-top:30px;
+    }
+    .headersubmenu .dropdown,.headersubmenu .bookmarkCounter{
+        position: static;
+    }
+}

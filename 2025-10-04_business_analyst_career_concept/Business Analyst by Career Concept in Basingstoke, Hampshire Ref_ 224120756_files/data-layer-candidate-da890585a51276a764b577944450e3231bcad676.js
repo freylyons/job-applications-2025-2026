@@ -1,0 +1,1 @@
+"use strict";$(function(){$("#nav-signup").on("click",function(){window.dataLayer=window.dataLayer||[],window.dataLayer.push({event:"dataLayerPush","hit.type":"Event","hit.category":"Tests","hit.action":"Button Click","hit.label":"Sign up"})})});

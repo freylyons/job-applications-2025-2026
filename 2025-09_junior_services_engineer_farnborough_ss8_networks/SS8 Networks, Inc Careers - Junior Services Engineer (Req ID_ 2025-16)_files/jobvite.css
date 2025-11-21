@@ -1,0 +1,29 @@
+@import url("https://use.typekit.net/ete4jlx.css");
+
+.jv-page-body {
+    font-family: "proxima-nova", Sans-serif;
+    font-size: 20px;
+    color: #000;
+}
+
+.jv-page-body h2 {
+    color: rgb(52, 73, 95);
+	font-size: 37px;
+font-weight: 700;
+	text-align:center;
+}
+
+.jv-page-body h3 {
+    color: #f16722;
+	font-size: 28px;
+text-transform: uppercase;
+}
+
+.jv-page-body a {
+    color: #34495F;
+}
+
+.jv-page-body a:hover {
+    color: #f16722;
+}
+

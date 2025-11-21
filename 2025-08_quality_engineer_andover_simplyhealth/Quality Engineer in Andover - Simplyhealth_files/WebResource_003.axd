@@ -1,0 +1,1 @@
+function JSErrorHandler(r,n,o){}

@@ -1,0 +1,149 @@
+html {
+    font-size: 100%!important;
+}
+
+body#body.home-page .backgroundimage0d240767-a25c-408e-b649-0 {
+		background-size:100%;
+	}
+
+@media(max-width:480px)
+	{
+	
+	body#body.home-page .backgroundimage0d240767-a25c-408e-b649-0 {
+		background-image: url(https://www.hants.gov.uk/-/media//Images/Site%20images/newjob-320.jpg) !important;
+		height:200px;
+	}
+}
+
+
+/*main newjob brand*/
+body#body.home-page .backgroundcoloreeb59e9db1c90e30 {
+    background-color: rgba(168,166,166,0.95);
+}
+
+body#body.home-page .linkcolorb6a533a1 a{
+   text-decoration:underline;
+}
+
+
+body#body.home-page .linkcolorb6a533a1 a:hover{
+   color:#e8027c!important;
+}
+
+
+
+body#body.home-page .linkcolorb6a533a1 {
+   text-align:center
+}
+
+
+
+/*Hampshire county council*/
+body#body.bodyHCC .linkcolor72228158 a{
+   color:rgba(240,171,0,1.0)!important;
+   text-decoration:underline;
+}
+
+
+body#body.bodyHCC  .linkcolor72228158 a:hover{
+   color:#fff!important;
+}
+
+body#body.bodyHCC .linkcolor72228158{
+   text-align:center
+}
+
+
+/*Oxfordshire county council*/
+body#body.bodyOCC .linkcolor72228158{
+   text-align:center
+}
+
+
+body#body.bodyOCC .linkcolor72228158 a:link,
+body#body.bodyOCC .linkcolor72228158 a:visited {
+   text-decoration:underline;
+}
+
+
+body#body.bodyOCC .linkcolor72228158 a:hover,
+body#body.bodyOCC .linkcolor72228158 a:active 
+{
+   color:rgba(240,171,0,1.0)!important;
+}
+
+body#body.bodyOCC .inner.col-sm-6 a:link,body#body.bodyOCC .inner.col-sm-6 a:visited{
+   color:rgba(240,171,0,1.0)!important;
+   text-decoration:underline;
+}
+
+body#body.bodyOCC .inner.col-sm-6 a:hover,body#body.bodyOCC .inner.col-sm-6 a:active{
+   	color:#fff!important;
+
+}
+
+
+body.bodyOCC #searchresults a:link, body.bodyOCC #searchresults a:visited{
+	   color:rgb(0,157,224)!important;
+	   text-decoration:underline;
+}
+
+body.bodyOCC #searchresults a:hover,  body.bodyOCC #searchresults a:active{
+	color:#23527c!important;
+}
+
+
+body.bodyOCC:not(.talentlanding-page) .innershellOCC a:link, body.bodyOCC:not(.talentlanding-page) .innershellOCC a:visited{
+	   color:rgba(240,171,0,1.0)!important;
+	   text-decoration:underline;
+}
+
+body.bodyOCC:not(.talentlanding-page) .innershellOCC a:hover,  body.bodyOCC:not(.talentlanding-page) .innershellOCC a:active{
+	color:#fff!important;
+}
+
+
+body.bodyOCC:not(.talentlanding-page) .innershellOCC a.socialbutton-link:hover  {
+    color: #000!important;
+}
+
+body.bodyOCC a#back-to-search:hover{
+	color:#000!important;
+}	
+
+
+
+
+
+
+
+/*Hampshire fire and rescue*/
+body#body.bodyHFRS .linkcolor2ddd5a97  a{
+   color:#fff!important;
+   text-decoration:underline;
+}
+
+
+body#body.bodyHFRS .linkcolor2ddd5a97  a:hover{
+   color:#ccc!important;
+}
+
+body#body.bodyHFRS .linkcolor2ddd5a97 {
+   text-align:center
+}
+
+body#body.bodyHFRS .backgroundcoloreeb59e9db1c90e30 {
+    background-color: rgba(168,166,166,0.95);
+}					
+
+body.coreCSB.job-page .fontcolora5f57a73, 
+body.coreCSB.job-page  .fontcolora5f57a73 h1, 
+body.coreCSB.job-page  .fontcolora5f57a73 h2, 
+body.coreCSB.job-page  .fontcolora5f57a73 h3, 
+body.coreCSB.job-page  .fontcolora5f57a73 h4, 
+body.coreCSB.job-page  .fontcolora5f57a73 h5, 
+body.coreCSB.job-page .fontcolora5f57a73 h6, 
+body.coreCSB.job-page  .fontcolora5f57a73 {
+    color: #000 !important;
+}	
+			

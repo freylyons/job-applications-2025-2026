@@ -1,0 +1,14 @@
+Dear Lewis Childs,
+
+I’m applying for the Application Developer / Data Engineer role (Ref: HCC621968) on the Integration Platforms team. I build and support production integrations and data pipelines, and I’m motivated by using technology to deliver reliable public services.
+
+In my current role, I own end-to-end integrations across multiple business systems. I design and operate ETL pipelines that keep data accurate, automate manual tasks, and make services dependable for users. Recent work includes containerised Python services orchestrated with Docker Compose, automated scheduling (cron/SFTP/DB jobs), and CI/CD via GitHub and automated image builds. I partner closely with users and stakeholders to translate requirements, create clear technical documentation (wikis/runbooks), test with users, and provide third-line troubleshooting through go-live and beyond. One impact I’m proud of is converting a two-hour weekly data task into a daily automated pipeline that keeps website listings up-to-date in a fast-moving selling environment.
+
+I’m eager to apply these skills on an iPaaS such as Boomi, where patterns I already use file/REST/database connectors, transformation, error handling, retries, observability and documentation—map directly to building robust, supportable processes. I also bring applied data-science experience (pandas, time-series, validation workflows) that can complement integration development where analytics or model-driven steps add value.
+
+What attracts me to Hampshire County Council is the opportunity to contribute to reliable, citizen-facing services within a collaborative engineering culture. I’m a self-starter who learns new platforms quickly, communicates clearly, and enjoys improving the quality and supportability of the systems I own.
+
+Thank you for your time - I’d welcome a conversation about how I can support the Integration Platforms team’s goals.
+
+Warm regards,
+Frey Lyons

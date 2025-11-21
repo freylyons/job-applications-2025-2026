@@ -1,0 +1,20 @@
+Frey Lyons
+Basingstoke, UK
+29/08/2025
+
+Hiring Team
+Simplyhealth
+Andover, UK
+
+Dear Hiring Team,
+
+I am excited to apply for the Quality Engineer position at Simplyhealth. Your mission to improve healthcare access and your pioneering status as the first UK health insurer to achieve B Corp certification resonate deeply with me. I want my engineering work to contribute to something meaningful, and I am inspired by the opportunity to support a purpose-driven company that prioritises both social and environmental impact.
+
+In my current role, I have been the sole engineer responsible for consolidating and automating fragmented data processes across the business. I designed and deployed ETL pipelines that reduced a two-hour weekly manual task into a daily automated process, implemented CI/CD workflows with Docker Compose and GitHub, and introduced unit and integration testing practices to improve reliability. Acting as both data engineer and DevOps practitioner, I built reproducible, testable systems from scratch while collaborating directly with end users to validate requirements. These experiences have honed the same skills your role emphasises: deconstructing solutions into testable components, embedding automation, and advocating for quality across delivery.
+
+What excites me most about this opportunity is the chance to bring that same drive for quality into a professional environment that values rigour and learning. In my own time, I am exploring NixOS and reproducible builds to deepen my expertise in testability and system reliability. Combined with my background in economics - where I focused on the social effects of corporate giants on labour and housing markets - I bring both technical skills and a strong belief in building systems that serve people, not just profit.
+
+I am eager to contribute my engineering expertise, quality mindset, and passion for purpose-driven work to Simplyhealth’s mission of making healthcare more accessible. Thank you for considering my application. I look forward to the opportunity to discuss how I can support your teams in delivering reliable, high-quality products that make a positive difference.
+
+Warm regards,
+Frey Lyons

@@ -1,0 +1,1 @@
+MessageFormat.locale.en=function(a){if(a===1){return"one"}return"other"};

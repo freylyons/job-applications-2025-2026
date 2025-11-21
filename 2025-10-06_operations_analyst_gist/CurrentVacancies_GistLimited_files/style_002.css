@@ -1,0 +1,518 @@
+@font-face {
+  font-family: 'DeltekStorm';
+  src:  url('DeltekStorm.eot?nv5elf');
+  src:  url('DeltekStorm.eot?nv5elf#iefix') format('embedded-opentype'),
+    url('DeltekStorm.ttf?nv5elf') format('truetype'),
+    url('DeltekStorm.woff?nv5elf') format('woff'),
+    url('DeltekStorm.svg?nv5elf#DeltekStorm') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'DeltekStorm' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.icon-deltek:before {
+ content:"\E900"
+}
+.icon-vantagepoint:before {
+ content:"\E901"
+}
+.icon-kona:before {
+ content:"\E902"
+}
+.icon-kona-full:before {
+ content:"\E903"
+}
+.icon-menu:before {
+ content:"\E904"
+}
+.icon-settings:before {
+ content:"\E905"
+}
+.icon-help:before {
+ content:"\E906"
+}
+.icon-dashboard-nav:before {
+ content:"\E907"
+}
+.icon-opportunity-nav:before {
+ content:"\E908"
+}
+.icon-config-gen-nav:before {
+ content:"\E909"
+}
+.icon-security-nav:before {
+ content:"\E90A"
+}
+.icon-Integrate-nav:before {
+ content:"\E90B"
+}
+.icon-resourcegrid-nav:before {
+ content:"\E90C"
+}
+.icon-contact-nav:before {
+ content:"\E90D"
+}
+.icon-absence-nav:before {
+ content:"\E90E"
+}
+.icon-altproject-nav:before {
+ content:"\E90F"
+}
+.icon-projectplan-nav:before {
+ content:"\E910"
+}
+.icon-config-nav:before {
+ content:"\E911"
+}
+.icon-contacts-nav:before {
+ content:"\E912"
+}
+.icon-firm-nav:before {
+ content:"\E913"
+}
+.icon-Infobutton:before {
+ content:"\E914"
+}
+.icon-oppplan-nav:before {
+ content:"\E915"
+}
+.icon-expenses-nav:before {
+ content:"\E916"
+}
+.icon-time-nav:before {
+ content:"\E917"
+}
+.icon-reporting-nav:before {
+ content:"\E918"
+}
+.icon-alert:before {
+ content:"\E919"
+}
+.icon-hierarchy:before {
+ content:"\E91A"
+}
+.icon-pin:before {
+ content:"\E91B"
+}
+.icon-mail:before {
+ content:"\E91C"
+}
+.icon-inactive:before {
+ content:"\E91D"
+}
+.icon-favorite:before {
+ content:"\E91E"
+}
+.icon-close:before {
+ content:"\E91F"
+}
+.icon-download2:before {
+ content:"\E920"
+}
+.icon-chevronleft:before {
+ content:"\E921"
+}
+.icon-chevronright:before {
+ content:"\E922"
+}
+.icon-chevron-up:before {
+ content:"\E923"
+}
+.icon-chevron-down:before {
+ content:"\E924"
+}
+.icon-recordarrow-left:before {
+ content:"\E925"
+}
+.icon-recordarrow-right:before {
+ content:"\E926"
+}
+.icon-enlighten:before {
+ content:"\E927"
+}
+.icon-arrow-up:before {
+ content:"\E928"
+}
+.icon-arrow-down:before {
+ content:"\E929"
+}
+.icon-arrow-left:before {
+ content:"\E92A"
+}
+.icon-arrow-right:before {
+ content:"\E92B"
+}
+.icon-link:before {
+ content:"\E92C"
+}
+.icon-unlink:before {
+ content:"\E92D"
+}
+.icon-unlink2:before {
+ content:"\E92E"
+}
+.icon-log:before {
+ content:"\E92F"
+}
+.icon-merge:before {
+ content:"\E930"
+}
+.icon-check:before {
+ content:"\E931"
+}
+.icon-invoice:before {
+ content:"\E932"
+}
+.icon-invoice-comment:before {
+ content:"\E933"
+}
+.icon-invoice-inspect:before {
+ content:"\E934"
+}
+.icon-checkout:before {
+ content:"\E935"
+}
+.icon-checkin:before {
+ content:"\E936"
+}
+.icon-exchange:before {
+ content:"\E937"
+}
+.icon-import:before {
+ content:"\E938"
+}
+.icon-openin-large:before {
+ content:"\E939"
+}
+.icon-refresh:before {
+ content:"\E93A"
+}
+.icon-copy:before {
+ content:"\E93B"
+}
+.icon-copy-to:before {
+ content:"\E93C"
+}
+.icon-cancel:before {
+ content:"\E93D"
+}
+.icon-remove:before {
+ content:"\E93E"
+}
+.icon-delete:before {
+ content:"\E93F"
+}
+.icon-category:before {
+ content:"\E940"
+}
+.icon-search:before {
+ content:"\E941"
+}
+.icon-signature:before {
+ content:"\E942"
+}
+.icon-add:before {
+ content:"\E943"
+}
+.icon-close-opp:before {
+ content:"\E944"
+}
+.icon-save:before {
+ content:"\E945"
+}
+.icon-edit:before {
+ content:"\E946"
+}
+.icon-print:before {
+ content:"\E947"
+}
+.icon-currency:before {
+ content:"\E948"
+}
+.icon-settings-local:before {
+ content:"\E949"
+}
+.icon-listview:before {
+ content:"\E94A"
+}
+.icon-formview:before {
+ content:"\E94B"
+}
+.icon-attach:before {
+ content:"\E94C"
+}
+.icon-add-attach:before {
+ content:"\E94D"
+}
+.icon-add-note:before {
+ content:"\E94E"
+}
+.icon-note:before {
+ content:"\E94F"
+}
+.icon-user:before {
+ content:"\E950"
+}
+.icon-add-user:before {
+ content:"\E951"
+}
+.icon-ellipsis:before {
+ content:"\E952"
+}
+.icon-image:before {
+ content:"\E953"
+}
+.icon-pinned-emp:before {
+ content:"\E954"
+}
+.icon-add-touchpoint:before {
+ content:"\E955"
+}
+.icon-calendar:before {
+ content:"\E956"
+}
+.icon-client:before {
+ content:"\E957"
+}
+.icon-vendor:before {
+ content:"\E958"
+}
+.icon-employee:before {
+ content:"\E959"
+}
+.icon-droparrow1:before {
+ content:"\E95A"
+}
+.icon-droparrow2:before {
+ content:"\E95B"
+}
+.icon-horarrow:before {
+ content:"\E95C"
+}
+.icon-rowtools:before {
+ content:"\E95D"
+}
+.icon-Expand:before {
+ content:"\E95E"
+}
+.icon-campaign:before {
+ content:"\E95F"
+}
+.icon-activity:before {
+ content:"\E960"
+}
+.icon-bell:before {
+ content:"\E961"
+}
+.icon-expense:before {
+ content:"\E962"
+}
+.icon-mileage:before {
+ content:"\E963"
+}
+.icon-dailytime:before {
+ content:"\E964"
+}
+.icon-openoutside:before {
+ content:"\E965"
+}
+.icon-indicator:before {
+ content:"\E966"
+}
+.icon-lineindicator:before {
+ content:"\E967"
+}
+.icon-submit:before {
+ content:"\E968"
+}
+.icon-release:before {
+ content:"\E969"
+}
+.icon-share:before {
+ content:"\E96A"
+}
+.icon-chart:before {
+ content:"\E96B"
+}
+.icon-dragndrop:before {
+ content:"\E96C"
+}
+.icon-lead:before {
+ content:"\E96D"
+}
+.icon-empcard:before {
+ content:"\E96E"
+}
+.icon-folder:before {
+ content:"\E96F"
+}
+.icon-globe:before {
+ content:"\E970"
+}
+.icon-knowmore:before {
+ content:"\E971"
+}
+.icon-padlock:before {
+ content:"\E972"
+}
+.icon-workflow-progress:before {
+ content:"\E973"
+}
+.icon-filter:before {
+ content:"\E974"
+}
+.icon-excel:before {
+ content:"\E975"
+}
+.icon-conversations:before {
+ content:"\E976"
+}
+.icon-set-period:before {
+ content:"\E977"
+}
+.icon-history:before {
+ content:"\E978"
+}
+.icon-DFP:before {
+ content:"\E979"
+}
+.icon-forPS:before {
+ content:"\E97A"
+}
+.icon-groupedlist:before {
+ content:"\E97B"
+}
+.icon-flip-right:before {
+ content:"\E97C"
+}
+.icon-flip-left:before {
+ content:"\E97D"
+}
+.icon-flip-color-left .path1:before {
+ content:"\E97E";
+ color:#fff
+}
+.icon-flip-color-left .path2:before {
+ content:"\E97F";
+ margin-left:-1em;
+ color:#fff
+}
+.mainmenu-link:hover .icon-flip-color-left .path1:before {
+ content:"\E97E";
+ color:#0069aa
+}
+.mainmenu-link:hover .icon-flip-color-left .path2:before {
+ content:"\E97F";
+ margin-left:-1em;
+ color:#13b5ea
+}
+.top-header:hover .icon-flip-color-left .path1:before {
+ content:"\E97E";
+ color:#0069aa
+}
+.top-header:hover .icon-flip-color-left .path2:before {
+ content:"\E97F";
+ margin-left:-1em;
+ color:#13b5ea
+}
+.icon-flip-color-right .path1:before {
+ content:"\E980";
+ color:#fff
+}
+.icon-flip-color-right .path2:before {
+ content:"\E981";
+ margin-left:-1em;
+ color:#fff
+}
+.top-header:hover .icon-flip-color-right .path1:before {
+ content:"\E980";
+ color:#0069aa
+}
+.top-header:hover .icon-flip-color-right .path2:before {
+ content:"\E981";
+ margin-left:-1em;
+ color:#13b5ea
+}
+.icon-eye:before {
+ content:"\E982"
+}
+.icon-bring-to-front:before {
+ content:"\E983"
+}
+.icon-send-to-back:before {
+ content:"\E984"
+}
+.icon-cut:before {
+ content:"\E985"
+}
+.icon-show-details:before {
+ content:"\E986"
+}
+.icon-addProjectStructure:before {
+ content:"\E987"
+}
+.icon-match:before {
+ content:"\E988"
+}
+.icon-grouping-search:before {
+ content:"\E989"
+}
+.icon-back-to-list:before {
+ content:"\E98A"
+}
+.icon-upload:before {
+ content:"\E98B"
+}
+.icon-download:before {
+ content:"\E98C"
+}
+.icon-crop:before {
+ content:"\E98D"
+}
+.icon-billing-group:before {
+ content:"\E98E"
+}
+.icon-wbs1-only .path1:before {
+ content:"\E98F";
+ color:#afaeaf
+}
+.icon-wbs1-only .path2:before {
+ content:"\E990";
+ margin-left:-1em;
+ color:#afaeaf
+}
+.icon-wbs1-only .path3:before {
+ content:"\E991";
+ margin-left:-1em;
+ color:#465d7c
+}
+.icon-wbs1-only .path4:before {
+ content:"\E992";
+ margin-left:-1em;
+ color:#afaeaf
+}
+.icon-exclamation-button:before {
+ content:"\E993"
+}
+.icon-reopen:before {
+ content:"\E994"
+}
+.icon-hey:before {
+ content:"\E995"
+}
+.icon-mic:before {
+ content:"\E996"
+}

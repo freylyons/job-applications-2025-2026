@@ -1,0 +1,14 @@
+date,role title,company,isRecruitmentCompany,location,application_progress,application_status,deadline,listing,data dir,cv branch
+2025-08,,Hampshire County Council,FALSE,,interview,not complete,,,2025-08_applicaition_developer_data_engineer_winchester_hampshire_county_council,
+2025-08,,Vantage Point Global,FALSE,,application,submitted,,,2025-08_junior_software_developer_farnborough_vantagepointglobal,
+2025-08,,Simply Health,FALSE,,application,rejected,,,2025-08_quality_engineer_andover_simplyhealth,
+2025-09,,Soprasteria,FALSE,,application,rejected,,,2025-09_automation_engineer_farnborough_soprasteria,
+2025-09,Junior Services Engineer,SS8 Networks,FALSE,,application,submitted,,,2025-09_junior_services_engineer_farnborough_ss8_networks,
+2025-09,Junior Software Developer,Infosum,FALSE,,application,submitted,,,2025-09_junior_software_developer_basingstoke_infosum,
+2025-10-04,Business Analyst,Career Concept,FALSE,,application,submitted,,,2025-10-04_business_analyst_career_concept,
+2025-10-04,Researcher – Corporate Analysis,Hampshire Police,FALSE,Winchester,application,abandoned,,,2025-10-04_researcher-corporate_analysis_hampshire_police,
+2025-10-04,Software Engineer,Spectrum IT Recruitment,TRUE,Alton,application,submitted,open,https://www.cv-library.co.uk/job/224130342/Software-Engineer,2025-10-04_software_engineer_alton_spectrum_it_recruitment,7-software-engineer-spectrum-it-recruitment-alton
+2025-10-04,Insight Analyst – Investment and Development,Soverign Network Group,FALSE,,application,not complete,2025-10-12,https://jobs.sng.org.uk/jobs/vacancy/insight-analyst--investment-and-development-7345/7363/description?_channelid=5,,
+2025-10-04,Operations Analyst,Gist,FALSE,Basingstoke,video interview,rejected,,https://gistworld.mua.hrdepartment.com/hrsmart/ats/Posting/view/3113,2025-10-06_operations_analyst_gist,
+2025-10-04,Data and Reporting Analyst,REL,FALSE,Winnersh,application,rejected,,https://careers-relfm.icims.com/jobs/13925/data-and-reporting-analyst/job,2025-10-04_data_and_reporting_analyst_rel,
+2025-10-04,Data Visualisation Engineer,BWM Group UK,FALSE,Farnborough,application,submitted,,https://www.cv-library.co.uk/job/224160794/Data-Visualisation-Engineer?s=103709&jbe_link_clicked=html_alert-1_one-day-results_job-1_job-title&candidate_apply_only=Mjk3Mjc5NjM6MTc2MDQxNjcyNTqip5itffYIPjHUprDm6PW7g1r8mjoBtuRCKTSRG5SQlA,2025-10-08_data_visualisation_engineer_bmw_group,

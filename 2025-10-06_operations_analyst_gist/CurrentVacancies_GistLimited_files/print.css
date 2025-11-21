@@ -1,0 +1,13 @@
+div#hua_header, .page-options, #backtotop, .page-end, #hua_menu_tier2_bar, #instruction-toggle, fieldset.submit {
+	display:none;
+}
+div#hua_main_page {
+	margin-top:10px;
+}
+body {
+	background-color:#ffffff;
+}
+.row { 
+	display: inline-block; 
+	width: 100%; 
+}

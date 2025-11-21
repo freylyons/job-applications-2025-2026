@@ -1,0 +1,3 @@
+What is it about this role that interests you?*
+
+What interests me about this role is the chance to take the automation, infrastructure, and DevOps skills I’ve been building on my own and apply them in a high-stakes, professional environment where quality and security really matter. In my current role I’ve had the freedom to design systems end-to-end - from provisioning servers and orchestrating containers, to building ETL pipelines and automated testing - but I’ve also seen how cutting corners undermines reliability. Having done mathematical/statistical training for my undergraduate, I have a strong appreciation for rigour and robustness, and I bring that into my work with technolog. I believe that this an attitude that would thrive in this role.

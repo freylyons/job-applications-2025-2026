@@ -1,0 +1,1 @@
+"use strict";function postEvent(e){var t=new XMLHttpRequest;t.open("POST","/experiment/event",!0),t.send(e)}

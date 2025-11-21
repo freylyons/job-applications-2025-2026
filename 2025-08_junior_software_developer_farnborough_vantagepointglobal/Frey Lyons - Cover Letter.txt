@@ -1,0 +1,12 @@
+Dear Hiring Team,
+
+I am excited to apply for the Junior Software Engineer programme with Vantage Point Global. The opportunity to combine hands-on software engineering with cloud-native technologies, DevOps practices, and agile development strongly aligns with both my professional experience and my career ambitions.
+
+In my current role as a Data Engineer / DevOps practitioner, I am responsible for consolidating and automating data processes across an SME. I have designed and deployed ETL pipelines that integrate systems such as QuickBooks and Linnworks, containerized Python applications with Docker Compose, and implemented CI/CD workflows using GitHub and modular configurations. These automations have significantly improved data quality and reduced manual effort, including cutting a weekly two-hour data cleaning task into an automated daily pipeline. Alongside this, I have introduced testing frameworks, managed Linux-based production environments, and collaborated directly with end users to ensure solutions meet real business needs.
+
+What excites me about this programme is the opportunity to expand this foundation in a structured environment, building robust, secure, and scalable systems at enterprise scale. I am eager to gain deeper experience with AWS services, infrastructure-as-code tools such as Terraform and Ansible, and orchestration frameworks like Kubernetes. I am passionate about reproducible, reliable builds—reflected in my personal projects with NixOS and self-hosted infrastructure—and I am motivated to bring this curiosity and quality mindset into a professional engineering team.
+
+I would be proud to contribute my skills in Python, data engineering, and DevOps practices, alongside my enthusiasm for learning and collaborative problem-solving, to Vantage Point Global and its clients. Thank you for considering my application, and I look forward to the opportunity to discuss how I can add value to your team.
+
+Sincerely,
+Frey Lyons

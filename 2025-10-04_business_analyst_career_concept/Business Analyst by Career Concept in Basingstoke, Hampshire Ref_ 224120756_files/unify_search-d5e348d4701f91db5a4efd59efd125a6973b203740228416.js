@@ -1,0 +1,1 @@
+"use strict";$(function(){function r(a){var e=$(this);a.preventDefault();var i=$(this).serialize();i!==t&&(t=i,$.ajax({url:"/get-clean-url",data:i,success:function(r){location.href=r.url},error:function(){e.attr("action","/search-jobs"),e.off("submit",r),e.trigger("submit")}}))}var t;$("form[role=search]").on("submit",r)});
