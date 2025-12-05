@@ -1,0 +1,16 @@
+Dear Hiring Manager,
+
+I am writing to express my enthusiastic interest in the Junior Software Developer position, as advertised. The opportunity to contribute to a startup that combines cutting-edge hardware with sophisticated software to drive innovation in sensing, autonomy, and real-time decision-making is particularly exciting. I am keen to apply my skills in building robust software infrastructure and data pipelines to support your machine learning and algorithm development efforts.
+
+My experience aligns well with the requirements of this role, particularly in designing and developing systems for data gathering, preprocessing, and optimisation. As a Data Engineer and Analyst at Motohaus Powersports Ltd, I currently act as the sole data and infrastructure engineer, owning data governance, analysis, and insight generation. This involves consolidating fragmented data management into unified, automated processes, through python, docker, and postgres development. I collaborate directly with non-technical stakeholders to capture requirements and ensure solutions address real business needs, and I administer Docker compose development and production environments on a remote bare-metal server. This role has provided me with practical experience in building critical infrastructure that fully automates data entry and controls website listings for over ten thousand items.
+
+I possess strong programming skills, with Python as my preferred language, and a solid understanding of data structures, algorithms, and general software engineering principles. I have implemented modern development practices, packaging and installing Python code into independent Docker container environments for development, testing, and production, along with performing unit and integration testing to ensure product reliability. I have a strong interest in functional programming and theoretical computer science, currently in the process of learning Haskell (which I am particularly fond of due to its similarties in design with mathematics), the compilation process, and the nix build system for functional package management, software deployment, and system configuration. My work includes promoting reusability and scalability in software development through an internal Python library, centralising testing and maintenance of common snippets and integration functions. I also have experience conducting R&D projects to design ML pipelines for demand forecasting and stock order prediction, which included cross-validation, training, and prediction services.
+
+I am enthusiastic about solving complex technical problems and am eager to learn new technologies within a collaborative, multidisciplinary engineering environment. I am a UK national and understand the sensitive nature of the projects, which aligns with my commitment to mission-driven technology.
+
+The prospect of working alongside experienced engineers, contributing to technically challenging defence projects, and developing my software engineering skills within an agile startup environment is highly appealing. I am confident that my background and proactive approach make me a strong candidate for this role.
+
+Thank you for your time and consideration. I have attached my CV for your review and welcome the opportunity to discuss my application further.
+
+Yours sincerely,
+Frey Lyons

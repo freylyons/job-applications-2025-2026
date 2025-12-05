@@ -1,0 +1,419 @@
+.js-enabled #global-cookie-message {
+    display: block; 
+}
+
+/* STANDARD OVERRIDE */
+
+input:focus,
+textarea:focus,
+select:focus,
+#global-header input:focus {
+  outline: 4px solid #FFDD00; }
+  
+a:focus {
+  background-color: #FFDD00;
+  outline: 3px solid transparent;
+  color: #0b0c0c;
+  -webkit-box-shadow: 0 4px 0 #0b0c0c;
+  box-shadow: 0 4px 0 #0b0c0c;
+  text-decoration: none;
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone
+}
+
+a:hover { color: #003078; }
+
+a:active { color: #003078; }
+
+#footer .footer-meta .footer-meta-inner .open-government-licence .logo:focus-within,
+#footer .footer-meta .copyright:focus-within
+{
+  background-color: #FFDD00;
+  color: #0b0c0c;
+}
+  
+.btn:focus:not(:hover):not(:active),
+button:focus:not(:hover):not(:active) {
+  border-color: #FFDD00;
+  color: #0b0c0c;
+  background-color: #FFDD00;
+  -webkit-box-shadow: 0 2px 0 #0b0c0c;
+  box-shadow: 0 2px 0 #0b0c0c;
+}
+
+#global-header .header-wrapper:after, #global-header .header-wrapper .header-global:after, #global-header .header-wrapper .header-global .header-logo:after, #global-header .header-proposition #proposition-links:after, .hgroup:after, .login-form p:after, .activity-navigation ul:after, #your-details dl:after, .accordion > li:after, .accordion-content:after, .accordion-group a:after, ul.detail:after, .accordion-content ul.drive:after {
+  content: "";
+  display: block;
+  clear: both; }
+@-ms-viewport {
+  width: device-width; }
+@-o-viewport {
+  width: device-width; }
+#global-header .header-wrapper:after, #global-header .header-wrapper .header-global:after, #global-header .header-wrapper .header-global .header-logo:after, #global-header .header-proposition #proposition-links:after, .hgroup:after, .login-form p:after, .activity-navigation ul:after, #your-details dl:after, .accordion > li:after, .accordion-content:after, .accordion-group a:after, ul.detail:after, .accordion-content ul.drive:after {
+  content: "";
+  display: block;
+  clear: both; }
+#global-header {
+  background-color: #0b0c0c;
+  width: 100%; }
+  
+  #global-header .header-wrapper {
+    max-width: 990px;
+    margin: 0 auto;
+    padding: 0.5em 15px; }
+    @media (max-width: 640px) {
+      
+      #global-header .header-wrapper {
+        padding: 0.5em 0; } }
+    
+    #global-header .header-wrapper .header-global .header-logo {
+      float: left; }
+      @media (min-width: 769px) {
+        
+        #global-header .header-wrapper .header-global .header-logo {
+          width: 100%; } }
+      @media screen and (max-width: 379px) {
+        
+        #global-header .header-wrapper .header-global .header-logo {
+          width: auto;
+          float: none; } }
+      
+      #global-header .header-wrapper .header-global .header-logo .content {
+        margin: 0 15px; }
+    
+    #global-header .header-wrapper .header-global .header-logo {
+      margin: 5px 0 2px; }
+  @media (min-width: 769px) {
+    
+    #global-header.with-proposition .header-wrapper .header-global {
+      float: left;
+      width: 33.33%; }
+      
+      #global-header.with-proposition .header-wrapper .header-global .header-logo,
+      #global-header.with-proposition .header-wrapper .header-global .site-search {
+        width: 100%; } }
+  @media (min-width: 769px) {
+    
+    #global-header.with-proposition .header-wrapper .header-proposition {
+      width: 66.66%;
+      float: left; } }
+  
+  #global-header.with-proposition .header-wrapper .header-proposition .content {
+    margin: 0 15px; }
+  
+  #global-header #logo {
+    float: left;
+    position: relative;
+    top: 1px;
+    height: 30px;
+    overflow: visible;
+    vertical-align: baseline;
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 1em;
+    text-decoration: none;
+    text-rendering: optimizeLegibility;
+    margin-bottom: -1px;
+    padding-bottom: 1px; }
+    
+    #global-header #logo img {
+      position: relative;
+      top: -2px;
+      width: 35px;
+      height: 31px;
+      left: 0;
+      padding-right: 6px;
+      float: left;
+      display: inline;
+      line-height: inherit;
+      border: none; }
+      
+    #global-header #logo svg {
+      position: relative;
+      top: -4px;
+      left: 0;
+      padding-right: 6px;
+      float: left;
+      display: inline;
+      line-height: inherit;
+      border: none; }
+     
+    #global-header #logo img:hover {
+      top: -2px; }
+    
+    #global-header #logo:hover img {
+      top: -2px; }
+    
+    #global-header #logo:hover, #global-header #logo:focus {
+      text-decoration: none;
+      border-bottom: 1px solid;
+      padding-bottom: 0; }
+    
+    #global-header #logo:focus {
+      color: #0b0c0c; }
+    
+    #global-header #logo:active {
+      color: #2b8cc4; }
+  
+  #global-header .header-proposition {
+    padding-top: 10px; }
+    @media (min-width: 769px) {
+      
+      #global-header .header-proposition {
+        padding-top: 0; } }
+    
+    #global-header .header-proposition #proposition-name {
+      font-family: "nta", Arial, sans-serif;
+      font-size: 24px;
+      line-height: 1.25;
+      font-weight: 400;
+      text-transform: none;
+      font-weight: bold;
+      color: white;
+      text-decoration: none; }
+      @media (max-width: 640px) {
+        
+        #global-header .header-proposition #proposition-name {
+          font-size: 20px;
+          line-height: 1.2; } }
+    
+    #global-header .header-proposition a.menu {
+      font-family: "nta", Arial, sans-serif;
+      font-size: 16px;
+      line-height: 1.25;
+      font-weight: 300;
+      text-transform: none;
+      color: white;
+      display: block;
+      float: right;
+      text-decoration: none;
+      padding-top: 6px; }
+      @media (max-width: 640px) {
+        
+        #global-header .header-proposition a.menu {
+          font-size: 14px;
+          line-height: 1.14286; } }
+      @media (min-width: 769px) {
+        
+        #global-header .header-proposition a.menu {
+          display: none; } }
+      
+      #global-header .header-proposition a.menu:hover {
+        text-decoration: underline; }
+      
+      #global-header .header-proposition a.menu:after {
+        display: inline-block;
+        font-size: 8px;
+        height: 8px;
+        padding-left: 5px;
+        vertical-align: middle;
+        content: " \25BC"; }
+      
+      #global-header .header-proposition a.menu.js-hidden:after {
+        content: " \25B2"; }
+    
+    #global-header .header-proposition #proposition-menu {
+      margin-top: 5px; }
+    
+    #global-header .header-proposition #proposition-links {
+      clear: both;
+      margin: 2px 0 0 0;
+      padding: 0; }
+      
+      .js-enabled #global-header .header-proposition #proposition-links {
+        display: none; }
+        @media (min-width: 769px) {
+          
+          .js-enabled #global-header .header-proposition #proposition-links {
+            display: block; } }
+        
+        .js-enabled #global-header .header-proposition #proposition-links.js-visible {
+          display: block; }
+      
+      #global-header .header-proposition #proposition-links li {
+        float: left;
+        width: 50%;
+        padding: 3px 0;
+        border-bottom: 1px solid #bfc1c3; }
+        @media (min-width: 769px) {
+          
+          #global-header .header-proposition #proposition-links li {
+            display: block;
+            width: auto;
+            padding: 0 15px 0 0;
+            border-bottom: 0; }
+            
+            #global-header .header-proposition #proposition-links li.clear-child {
+              clear: left; } }
+        
+        #global-header .header-proposition #proposition-links li a {
+          color: white;
+          text-decoration: none;
+          font-family: "nta", Arial, sans-serif;
+          font-size: 14px;
+          line-height: 1.42857;
+          font-weight: 400;
+          text-transform: none;
+          font-weight: 700; }
+          @media (max-width: 640px) {
+            
+            #global-header .header-proposition #proposition-links li a {
+              font-size: 12px;
+              line-height: 1.25; } }
+          @media (min-width: 769px) {
+            
+            #global-header .header-proposition #proposition-links li a {
+              font-family: "nta", Arial, sans-serif;
+              font-size: 16px;
+              line-height: 1.25;
+              font-weight: 300;
+              text-transform: none;
+              font-weight: 700;
+              line-height: 23px; } }
+            @media (min-width: 769px) and (max-width: 640px) {
+              
+              #global-header .header-proposition #proposition-links li a {
+                font-size: 14px;
+                line-height: 1.14286; } }
+          
+          #global-header .header-proposition #proposition-links li a:hover {
+            text-decoration: underline; }
+          
+          #global-header .header-proposition #proposition-links li a.active {
+            color: #28a197; }
+            
+
+/* BETA BANNER */
+
+.beta-banner2 {
+   padding: 10px 0px;
+}
+
+.beta__label{
+    background:#1d70b8;
+    color:#fff;
+    display:inline-block;
+    font-size:1em;
+    font-weight:700;
+    letter-spacing:1px;
+    line-height:1.14286;
+    margin-right:10px;
+    padding:2px 5px 0;
+    text-transform: uppercase;
+    vertical-align: top;
+}
+
+.heading-large .beta__label{
+    margin-top:-11px;
+    margin-left:10px;
+    vertical-align:middle;
+}
+
+@media (min-width: 641px){
+    .beta__label{
+        line-height:1.25;
+    }
+}
+
+/* APPLICATION ADDITIONS */
+
+.header-global {
+  float: left;
+  min-height: 37px; }
+.header-global ul {
+  margin: 0;
+  padding: 0 0 0 0px; }
+.header-global li {
+  display: inline\9;
+  display: inline-block;
+  *display: inline;
+  zoom: 1;
+  vertical-align: top; }
+.header-global li div {
+  vertical-align: top; }
+.header-title {
+  color: white;
+  font-weight: bold;
+  font-size: 30px;
+  float: left; }
+
+.header-title a, .header-title a:visited {
+  color: #FFFFFF;
+  text-decoration: none;
+}
+
+.header-title a:hover {
+    text-decoration: underline;
+}
+
+.header-logo {
+  padding-top: 3px; }
+.header-logo-li {
+  margin-right: 108px; }
+
+
+@media (max-width: 640px){
+    .header-title {
+        margin-left: 15px;
+        font-size: 24px;
+    }
+}
+
+a[rel="external"]:after {
+  background-image: none;
+  content: none;
+  background-position: inherit;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+select {
+    -webkit-appearance: menulist-button !important; 
+}
+
+/* SEARCH FIELDS */
+input[type="search"] {
+  -webkit-appearance: textfield;
+  /* 1 */
+  /*
+  -moz-box-sizing: content-box;
+  -webkit-box-sizing: content-box;
+  */
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  /* 2 */
+  /*box-sizing: content-box;*/
+  box-sizing:border-box
+}
+
+input[type="search"]::-webkit-search-cancel-button {
+  /* Remove default */
+  -webkit-appearance: none;
+  /* custom style */
+  height: 16px;
+  width:  16px;
+  margin-left: 2px;
+  background-image: url('data:image/svg+xml;utf8,<svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0 0 1000 1000" width="16px" height="16px"><path fill="%23808080" d="M500,10C229.7,10,10,229.7,10,500s219.7,490,490,490s490-219.7,490-490S770.3,10,500,10z M774.6,660.5c31.2,31.2,31.2,82.9,0,114.2c-16.2,16.2-36.6,23.7-57.1,23.7c-20.5,0-40.9-7.5-57.1-23.7L500,614.2L339.5,774.6c-16.2,16.2-36.6,23.7-57.1,23.7s-40.9-7.5-57.1-23.7c-31.2-31.2-31.2-82.9,0-114.2L385.8,500L225.4,339.5c-31.2-31.2-31.2-82.9,0-114.2c31.2-31.2,82.9-31.2,114.2,0L500,385.8l160.5-160.5c31.2-31.2,82.9-31.2,114.2,0c31.2,31.2,31.2,82.9,0,114.2L614.2,500L774.6,660.5z"/></svg>');  
+}
+
+input[type="search"]::-webkit-search-decoration {
+  -webkit-appearance: none; }
+
+/* for GDS components */
+html {
+    font-size: 100%;
+}
+
+/* for crown logo in footer */
+#footer .footer-meta .copyright a {
+    background-image: url(/company/csr/images/crown/govuk-crest-grey.svg);
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 20 / 10), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
+  #footer .footer-meta .copyright a {
+    background-image: url(/company/csr/images/crown/govuk-crest-grey.svg);
+  }
+}

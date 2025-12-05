@@ -1,0 +1,7 @@
+In my role, I frequently replace long-standing manual workflows with new automated systems, which requires securing buy-in from a variety of stakeholders with differing technical expertise and priorities.
+
+A key challenge was to influence the adoption of a new, complex data integration system that would fundamentally change how several teams managed product data. My task was to ensure a smooth transition by communicating the purpose and benefits of the change with clarity and enthusiasm, respecting the needs and opinions of all involved.
+
+I initiated a series of workshops with non-technical users and department heads. I used these sessions to demonstrate the new system in a straightforward and engaging manner, focusing on how it would solve their specific pain points and simplify their work. I actively listened to their concerns and feedback, adapting my communication style to each audience and ensuring their requirements were incorporated into the final design. By sharing information transparently and checking understanding throughout the process, I built trust and a sense of shared purpose.
+
+This collaborative and respectful approach was highly effective. The new system was adopted with enthusiasm, as stakeholders felt their needs had been heard and understood. By clearly communicating the vision and influencing a positive reception, I successfully embedded a significant technical change that has delivered lasting benefits to the business.

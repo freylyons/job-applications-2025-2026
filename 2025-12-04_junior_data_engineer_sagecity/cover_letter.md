@@ -1,0 +1,16 @@
+Dear Sagacity Hiring Team,
+
+I am writing to express my enthusiastic interest in the Junior Data Engineer position, which I discovered on LinkedIn. With a strong foundation in Python, SQL, and hands-on experience designing and building scalable data pipelines from the ground up, I am confident that I possess the technical skills and the motivated, learning-focused mindset you are seeking for your Service Operations team.
+
+I am particularly drawn to this role's focus on the entire data lifecycle, from pipeline development and ETL implementation to database management and optimisation. My professional experience has been driven by a passion for transforming fragmented, manual processes into reliable, automated systems. The opportunity at Sagacity to contribute to client-facing products while growing within a team of experienced developers and data scientists aligns perfectly with my career aspirations to build robust data infrastructure and solve meaningful problems.
+
+In my current role as the sole data and infrastructure engineer at Motohaus Powersports, I was tasked with consolidating the company's disparate and error-prone manual data workflows. The primary objective was to create a single source of truth to automate critical e-commerce operations. To achieve this, I independently designed, built, and deployed a modular data integration layer.
+
+I implemented a multi-stage ETL pipeline using Python and a central PostgreSQL database to act as a master data store. This system ingests, validates, and models data from various sources before transforming and loading it into key ERP systems. The entire environment is containerised with Docker and deployed on a remote Linux server, ensuring a reproducible and scalable solution. This project successfully automated a previously time-consuming weekly task into a reliable daily job, and now governs the website listings for over ten thousand items, forming a critical piece of the company’s data infrastructure. This experience has given me a deep appreciation for data quality, process automation, and the importance of thorough documentation, all of which are key responsibilities mentioned in your job description.
+
+My technical proficiency is further underpinned by a 1st-class honours degree in Economics with Data Science, where I developed a strong understanding of statistical analysis, machine learning, and modelling. I am highly proficient in Python (including Pandas and pytest for testing), advanced SQL with PostgreSQL, and experienced with Linux systems and Docker for creating development and production environments. While without direct experience with workflow tools like Airflow, my work building ETL systems has given me a solid understanding of the principles of data orchestration and provides me with the foundational understanding of the motivation for moving to event-driven workflows.
+
+Thank you for considering my application. I am eager to bring my skills in data engineering and my passion for continuous learning to your team, and I am excited by the prospect of contributing to Sagacity. I look forward to the possibility of discussing my qualifications and experience with you further.
+
+Sincerely,
+Frey Lyons
